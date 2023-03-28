@@ -63,8 +63,10 @@ model.compile(optimizer = 'adam',
 ~~~
 
 The training works as expected:
+
 ![download](https://user-images.githubusercontent.com/93870597/228310487-c66b088e-e498-42ed-bbe1-3d63268712aa.png)
 
 ## The results
 The model correctly identified 72.0% of the images of cats and dogs. We can see some exemples:
+
 ![download](https://user-images.githubusercontent.com/93870597/228310952-cf9091a7-f5e8-4cba-b202-a768345ca669.png)
